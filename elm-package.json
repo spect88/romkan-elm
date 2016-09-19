@@ -1,0 +1,17 @@
+{
+    "version": "1.0.0",
+    "summary": "Converter between Romaji and Kana",
+    "repository": "https://github.com/spect88/romkan-elm.git",
+    "license": "BSD3",
+    "source-directories": [
+        "src"
+    ],
+    "exposed-modules": [
+        "Romkan"
+    ],
+    "dependencies": {
+        "elm-lang/core": "4.0.5 <= v < 5.0.0",
+        "Bogdanp/elm-combine": "2.2.1 <= v < 3.0.0"
+    },
+    "elm-version": "0.17.1 <= v < 0.18.0"
+}
